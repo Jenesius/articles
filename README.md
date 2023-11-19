@@ -10,7 +10,8 @@
 - [Документ](./vue-modal/new-way-to-use_en.md)
 - [Статья:dev.to](https://dev.to/jenesius/-a-new-look-at-modals-in-vue-3-34eb)
 
-### Методы оптимизации больших информационных систем. Переход с MongoDB
-на CasandraDB для ИС связанной с обменом сообщениями.
+### Методы оптимизации больших информационных систем.
+
+Переход с MongoDB на CasandraDB для ИС связанной с обменом сообщениями.
 
 - [Документ](./mongo-to-casandra/main.md)
