@@ -15,3 +15,7 @@
 Переход с MongoDB на CasandraDB для ИС связанной с обменом сообщениями.
 
 - [Документ](./mongo-to-casandra/main.md)
+
+### All the features of modals for Vue
+
+- [Документ](./all-the-features-of-modals-for-vue/main.md)
